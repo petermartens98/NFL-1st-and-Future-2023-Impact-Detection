@@ -7,8 +7,11 @@ Python Jupyter Notebook that
 
 ## Sample Output:
 
-### Comprehensive Play View (Sideline + Endzone + Animation
-https://user-images.githubusercontent.com/87671757/226408459-24b8adf7-3aa5-434a-9972-4d8b035e358f.mp4
+### Comprehensive Play View (Sideline + Endzone + All29 + Animation)
+
+https://user-images.githubusercontent.com/87671757/226501206-39e6ee1d-eb12-41d7-8655-9bf5346f9b0d.mp4
+
+-434a-9972-4d8b035e358f.mp4
 
 ### OpenCV Helmet Labelling
 
